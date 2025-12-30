@@ -1,2 +1,8 @@
 amp_plugin.yml
 .gitattributes
+vcs.xml
+misc.xml
+jarRepositories.xml
+encodings.xml
+dbnavigator.xml
+compiler.xml

@@ -1,5 +1,0 @@
-apiTemplate:
-  updateRules:
-  - "$default"
-  spec: {}
-classCustoms: {}
